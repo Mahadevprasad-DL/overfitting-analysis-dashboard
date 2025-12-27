@@ -168,6 +168,9 @@ This project demonstrates how learning curves can effectively detect overfitting
 ## 👨‍💻 Author
 
 **Mahadevprasad D L**  
-Machine Learning Mini Project  
+MCA | Full Stack Developer | AI & ML Enthusiast  
+
+**Freelancer:** mpcodecrafter  
+🌐 Portfolio: [https://mpcodecrafter.free.nf/?i=1](https://mpcodecrafter.free.nf/?i=1)
 
 ---
